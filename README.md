@@ -1,6 +1,6 @@
 # superSubleaseDemo
 
-try running 'python3 manage.py runserver' in terminal.
+to open, clone and try running 'python3 manage.py runserver' in terminal.
 
 then go to http://127.0.0.1:8000/
 
